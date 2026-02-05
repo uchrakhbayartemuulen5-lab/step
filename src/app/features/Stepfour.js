@@ -7,7 +7,7 @@ export const Stepfour = () => {
             <div className="Mainimage">
               <img src="./Main2.jpg" />
             </div>
-            <div className="formtitle">You're All Set</div>
+            <div className="formtitle">You re All Set</div>
             <div className="formtitle1">
               We have received your submission. Thank you!
             </div>
