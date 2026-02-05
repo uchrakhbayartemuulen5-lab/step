@@ -19,5 +19,18 @@
     "eslint": "^9",
     "eslint-config-next": "15.5.3",
     "@eslint/eslintrc": "^3"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchrakhbayartemuulen5-lab/step.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchrakhbayartemuulen5-lab/step/issues"
+  },
+  "homepage": "https://github.com/uchrakhbayartemuulen5-lab/step#readme"
 }

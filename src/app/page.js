@@ -21,7 +21,6 @@ export default function Home() {
   };
   return (
     <>
-      {" "}
       {step === 1 && <Stepone handleNextStep={handleNextStep} />}{" "}
       {step === 2 && (
         <Steptwo
